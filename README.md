@@ -1,4 +1,5 @@
-# microprocessor-4
+# MicroProcessor-4
+mpl
 
 Basic gates 
 ![Screenshot 2023-06-07 102751](https://github.com/shiprasuvarna/microprocessor-4/assets/102012006/7b6eb372-2581-440f-8b27-4c40d63530b7)
